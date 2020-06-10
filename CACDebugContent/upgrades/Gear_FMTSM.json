@@ -25,11 +25,11 @@
       "AutoDeactivateOnHeat": 0,
       "AutoActivateOnIncomingHeat":0,
       "AutoActivateOnArmorDamage":0,
-      "AutoActivateOnStructureDamage":5,
-      "AutoActivateOnAnyDamage":120,
+      "AutoActivateOnStructureDamage":20,
+      "AutoActivateOnAnyDamage":50,
       "CanNotBectivatedManualy": true,
       "FailDamageLocations": [],
-      "ActivateOnDamageToLocations": ["All"],
+      "ActivateOnDamageToLocations": [],
       "statusEffects": [
         {
           "durationData": {
