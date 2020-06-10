@@ -23,13 +23,13 @@
       "FailPilotingMult": 0.0,
       "AutoActivateOnHeat": 0,
       "AutoDeactivateOnHeat": 0,
-      "AutoActivateOnIncomingHeat":1,
-      "AutoActivateOnArmorDamage":20,
+      "AutoActivateOnIncomingHeat":0,
+      "AutoActivateOnArmorDamage":0,
       "AutoActivateOnStructureDamage":5,
-      "AutoActivateOnAnyDamage":30,
+      "AutoActivateOnAnyDamage":120,
       "CanNotBectivatedManualy": true,
       "FailDamageLocations": [],
-      "ActivateOnDamageToLocations": ["RightLeg","RightArm","RightTorso"],
+      "ActivateOnDamageToLocations": ["All"],
       "statusEffects": [
         {
           "durationData": {
